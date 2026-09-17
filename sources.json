@@ -1,0 +1,20 @@
+{
+  "version": "repair-2026-09-17",
+  "itinerary": "existing plan, display repair",
+  "map_type": "offline reference map, generalized features; not a navigation basemap",
+  "lodging": "approximate screenshot location, exact address not confirmed",
+  "sources": [
+    [
+      "오사카 관광국 지역지도(도로·공원 위치 참조)",
+      "https://osaka-info.jp/information/area-map-download/"
+    ],
+    [
+      "일본 국토지리원 지도(지역 위치 참조)",
+      "https://maps.gsi.go.jp/"
+    ],
+    [
+      "GSHHG 해안선 자료",
+      "https://www.soest.hawaii.edu/pwessel/gshhg/"
+    ]
+  ]
+}
